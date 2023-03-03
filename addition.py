@@ -3,4 +3,6 @@ b = 19
 c = a + b
 print("addition af a & b ,c")
 
-print (as)
+print (as
+a = 2
+print("add a")
